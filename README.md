@@ -1,5 +1,6 @@
 # Stable Diffusion web UI
-(This fork is only for bypassing Colab restrictions.) 
+(This fork is only for bypassing Colab restrictions.)
+
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
